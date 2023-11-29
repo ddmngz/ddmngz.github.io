@@ -1,4 +1,4 @@
-[[OsHW]] | [website](https://www.cs.columbia.edu/~nieh/teaching/w4118/) |  [Ed](https://edstem.org/us/courses/45654/discussion/) | [Study Guide](obsidian://open?vault=MaraNotes&file=Y3S1%2FMidterms%2FOS%20Study%20Guide)
+[[OsHW]] | [website](https://www.cs.columbia.edu/~nieh/teaching/w4118/) |  [Ed](https://edstem.org/us/courses/45654/discussion/) | [Study Guide](MIDTERM.md)
 
 
 # Filesystems
