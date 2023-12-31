@@ -4,7 +4,7 @@ I'm a junior at Columbia University studying computer science. I've been learnin
 - Research Assistant at the Columbia University doing data analysis and LLM NLP Processing
 - Full-Stack App development and web design for [Columbia University Lion Dance](https://www.culiondance.org)
 - Coursework in C, C++, UNIX, linux kernel hacking, and low-level networking
-- Various [fun projects!](pages/projects) 
+- Various [fun projects!](projects) 
 
 # Education
 - 3.75 GPA at Columbia College, Majoring in Computer Science, Concetration in Latin American & Caribbean Studies
