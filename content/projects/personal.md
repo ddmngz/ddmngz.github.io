@@ -1,7 +1,7 @@
 # Personal Projects
 
 {{< github repo="culiondance/culd-hub" >}}
-I inherited CULD Hub from an old member of the Colkumbia University lion dance club, Ethan Wu. He made it as a tool for organizing club performances, but also as a way to learn web app development! At first, it was simply a matter of learnign the technologies, understanding the codebase, and migrating it off of Heroku, but nowadays I've been working on it on my own! Adding new tools such as Equipment Management, Reimbursement Automation, and an Availability Display!
+I inherited CULD Hub from an old member of the Columbia University lion dance club, Ethan Wu. He made it as a tool for organizing club performances, but also as a way to learn web app development! At first, it was simply a matter of learnign the technologies, understanding the codebase, and migrating it off of Heroku, but nowadays I've been working on it on my own! Adding new tools such as Equipment Management, Reimbursement Automation, and an Availability Display!
 
 {{< github repo="ddmngz/emdash.sh" >}}
 Emdash was born from the conjuction of the desire for a bespoke, simple dashboard for productivity, fascination with TUI applications, and admiration for the design of VIM. I wanted a productivity application that encouraged use over endless reconfiguration, without sacrificing configurability. For me personality, I wanted something to parse my obsidian vault and render a dynamic dashboard, but I think generally speaking, it's really important for producitivty tools to be configurable, because everyone's brain works differently, so I went about generalizing it in a way that would allow other people to use it as well.
