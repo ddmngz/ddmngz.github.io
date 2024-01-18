@@ -1,4 +1,4 @@
-I'm a junior at Columbia University studying computer science. I've been learning different fields of comptuer science since high school, from graphics, to full-stack webapp design, to artificial intelligence, but currently, I'm most interested in Systems Programming!
+I'm a junior at Columbia University studying computer science. I've been exploring different fields of comptuer science since high school, from graphics, to full-stack webapp design, to artificial intelligence, but currently, I'm most interested in Systems Programming!
 
 # Experience
 - Research Assistant at the Columbia University doing data analysis and LLM NLP Processing
