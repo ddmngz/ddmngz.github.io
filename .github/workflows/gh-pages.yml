@@ -1,6 +1,6 @@
 # .github/workflows/gh-pages.yml
 
-name: GitHub Pages
+name: Hugo GitHub Pages
 
 on:
   push:
