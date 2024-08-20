@@ -1,11 +1,12 @@
-Welcome to my coursework page! Because these projects are for classes, the repos are private. Reach out to me if you'd like access!
+Welcome to my page for cool class projects! The repos are private, but feel free to reach out if you'd like access, or to discuss the work!
+
 
 ## Reliable Data Transfer over UDP (2 projects)
 **Computer Networks  | C & Rust |**
 
 * Chat app in C designed from scratch with only standard library
 * Stop and Wait Protocol for Reliable Data Transfer over UDP
-* Group chat and multiple user funcitonality
+* Group chat and multiple user functionality
 
 * two user chat app in Rust using standard library
 * Go-Back-N Protocol for Reliable Data Transfer over UDP
@@ -18,10 +19,10 @@ Welcome to my coursework page! Because these projects are for classes, the repos
 * Different ports on the same network simulated a router subnet
 * Each instance of the program sent it's own distance vectors to other instances to find shortest path
 
-## Ezfs implementaiton
+## Ezfs Implementation
 **Operating Systems | C |**
 
-* Implmementation of simple filesystem using Linux kernel VFS
+* Implementation of simple filesystem using Linux kernel VFS
 * Required looking into documentation and other filesystem implementations
 
 ## Scheduling class!

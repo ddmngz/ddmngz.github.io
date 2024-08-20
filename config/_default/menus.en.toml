@@ -16,6 +16,12 @@
  weight = 40
 
 [[main]]
+  name = "experience"
+  pageRef = "pages/experience"
+  weight = 5
+
+
+[[main]]
   name = "my projects"
   pageRef = "projects"
   weight = 10
@@ -32,7 +38,7 @@
 
 
 [[main]]
-  name = "course projects"
+  name = "class projects"
   parent = "my projects"
   url = "/projects/coursework"
   weight = 20

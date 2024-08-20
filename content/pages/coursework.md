@@ -5,7 +5,7 @@ Linux Kernel Theory and Practice, important Operating System Responsibilities (V
 #### Projects
 - Process state Trace syscall
 - Page Table state trace Syscall
-- Filesystem implementaion
+- Filesystem implementation 
 - Shortest-Job-First Scheduling Class
 # Computer Networks | Fall 2023
 #### Description
