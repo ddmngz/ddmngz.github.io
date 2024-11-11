@@ -48,6 +48,11 @@
   pageRef = "/projects/personal"
   weight = 10
 
+[[main]]
+  name = "Connections Generator"
+  pageRef = "/connections"
+  weight = 10
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
