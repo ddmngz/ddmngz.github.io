@@ -1,3 +1,4 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -8,18 +9,15 @@ title = "Mara Dominguez"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+   logo = "img/profile.png"
 
-[author]
+ [params.author]
    name = "Mara Dominguez"
+   email = "MaraDominguez445@gmail.com"
    image = "img/profile.jpg"
-   headline = "CC'25 Computer Science"
-   bio = "CC'25 Computer Science"
+   imageQuality = 96
    links = [
-     { email = "mailto:drd2145@columbia.edu" },
+     { email = "mailto:maradominguez445@gmail.com" },
      { github = "https://github.com/ddmngz" },
      { linkedin = "https://linkedin.com/in/mara-dominguez-6451812a1" },
-   ]
+    ]

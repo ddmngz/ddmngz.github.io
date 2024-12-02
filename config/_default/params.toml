@@ -12,11 +12,14 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
+replyByEmail = false
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
+# backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -25,8 +28,11 @@ disableTextInHeader = false
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -36,8 +42,8 @@ disableTextInHeader = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "postcard.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom                                                                                   
+  homepageImage = "postcard.jpg" # used in: hero, and card                                                                                                               
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -50,10 +56,12 @@ disableTextInHeader = false
   showDate = false
   showViews = false
   showLikes = false
+  showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
+  # showAuthorBottom = false
   showHero = false
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -72,11 +80,12 @@ disableTextInHeader = false
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -85,7 +94,8 @@ disableTextInHeader = false
   showLikes = false
   showTableOfContents = false
   showCards = false
-  groupByYear = false
+  orderByWeight = false
+  groupByYear = true
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
@@ -127,6 +137,17 @@ disableTextInHeader = false
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
+[umamiAnalytics]
+  # websiteid = "ABC12345"
+  # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+  # scriptName = ""
+  # enableTrackEvent = true
+
+[selineAnalytics]
+  # token = "XXXXXX"
+  # enableTrackEvent = true
+
 [buymeacoffee]
   # identifier = ""
   # globalWidget = true
@@ -139,3 +160,8 @@ disableTextInHeader = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
+  # fediverse = ""
+
+[rssnext]
+  # feedId = ""
+  # userId = ""
